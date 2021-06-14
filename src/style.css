@@ -1,0 +1,181 @@
+body{
+    background-color: #E7DFD4;
+    font-family: sans-serif;
+}
+.imgButton{
+    width:80px;
+    height:80px
+}
+h5{
+    margin-left:37%;
+    width:200px;
+    text-align:center;}
+.imgOpt
+{
+    width:35px;
+    height:35px;
+}
+#op
+{
+    margin-left: 33%;
+    margin-right: 33%;
+    
+}
+.circle
+{
+    width:100px;
+    height:100px;
+
+}
+.circle1
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:25%;
+    right:51%;
+
+}
+.circle2
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:70%;
+    right:40%;
+
+}
+.circle3
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:70%;
+    left:30%;
+    
+    
+
+}
+.circle4
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:45%;
+    right:40%;
+    
+}
+.circle5
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:90%;
+    right:51%;
+    
+}
+
+.circle6
+{
+
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:45%;
+    left:30%;
+}
+.circle7
+{
+    border:2px solid;
+    border-radius: 50%;
+    padding:3px;
+    
+    position:absolute;
+    text-align: center;
+    align-items: center;
+    top:57%;
+    right:51%;
+}
+p{
+    font-size: 11px;
+}
+@media only screen and (max-width: 600px) {
+    .imgButton{
+        width:50px;
+        height:50px;
+    }
+    h5
+    {
+        margin-left: 20%;
+    }
+    p{
+        font-size: 9px;
+    }
+    #op
+{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.circle
+{
+    width:80px;
+    height:80px;
+}
+.circle1{
+    right:45%;
+}
+.circle2{
+    right:20%;
+    top:60%;
+}
+.circle3{
+    left:10%;
+    top:60%;
+}
+.circle4
+{
+    top:40%;
+right:20%;
+}
+.circle6
+{
+    top:40%;
+left:10%;
+}
+.circle5{
+    top:75%;
+    right: 45%;
+}
+.circle7{
+    top:49%;
+    right: 45%;
+}
+.imgOpt
+{
+    width:30px;
+    height:30px;
+}
+  }
